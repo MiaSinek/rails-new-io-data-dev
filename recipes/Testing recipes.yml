@@ -1,0 +1,7 @@
+---
+:name: Testing recipes
+:description: This is my very first recipe!
+:cli_flags: " -d trilogy --skip-kamal --skip-thruster"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients: []
