@@ -1,0 +1,14 @@
+---
+:name: My shiny "Nothing but Basics" recipe
+:description: This recipe has nothing and everything we need. Minimalist to the core!
+:cli_flags: "   -c tailwind --skip-docker --skip-kamal --skip-thruster --skip-ci --skip-action-mailer
+  --skip-action-mailbox --skip-active-record --skip-action-text --skip-active-storage
+  --skip-action-cable --skip-active-job --skip-solid --skip-rubocop --skip-brakeman
+  --skip-dev-gems --skip-devcontainer --skip-keeps --skip-jbuilder --skip-bootsnap
+  --skip-js"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: foo
+  :position: 1
+  :configuration: {}
