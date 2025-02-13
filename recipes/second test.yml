@@ -1,0 +1,10 @@
+---
+:name: second test
+:description: This does nothing
+:cli_flags: " -d mysql   --skip-kamal --skip-active-storage --skip-git"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: foo
+  :position: 1
+  :configuration: {}
